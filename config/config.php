@@ -18,7 +18,7 @@ Config::set('default_action', 'index');
 
 Config::set('db.host', 'localhost');
 Config::set('db.user', 'nick');
-Config::set('db.password', 'asdfgh-1988');
+Config::set('db.password', '');
 Config::set('db.db_name', 'mvc');
 
 Config::set('salt', 'jd5jddjfdf9fdjd');
